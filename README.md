@@ -8,3 +8,4 @@ I am interested in learning programming, software development, and new technolog
 This repository contains my learning journey, skills, interests, and future goals.
 
 I am continuously improving my technical skills and working towards becoming a good software developer.
+Learning Java and Data Structures & Algorithms.
