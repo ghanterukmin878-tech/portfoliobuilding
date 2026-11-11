@@ -10,3 +10,4 @@ This repository contains my learning journey, skills, interests, and future goal
 I am continuously improving my technical skills and working towards becoming a good software developer.
 Learning Java and Data Structures & Algorithms.
 Interested in Web Development and Artificial Intelligence.
+Goal: Become a skilled software developer.
